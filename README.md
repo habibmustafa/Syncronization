@@ -1,5 +1,5 @@
 # Syncronization
-Bootcamp(Algoritmika)   Course Work-1
+Bootcamp(Algoritmika) Project-1
 
 --TEAM WORK
 
