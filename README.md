@@ -1,5 +1,6 @@
 # Syncronization
-Bootcamp(Algoritmika) Project-1
+An informative responsive website called "How to Watch
+Movies"
 
 --TEAM WORK
 
